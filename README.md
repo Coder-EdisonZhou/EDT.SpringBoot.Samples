@@ -22,6 +22,6 @@
 > 纯洁的微笑 SpringBoot基础教程：http://www.ityouknow.com/spring-boot.html
 
 ## 推荐开发环境
-> Intellij Idea Community 2018版本 
-PS: 如果是.Net程序猿想要学习SpringBoot，建议更改快捷键与Visual Studio保持一致，这样能加快开发效率
+> Intellij Idea Community 2018版本<br/>
+`PS`: 如果是.Net程序猿想要学习SpringBoot，建议更改快捷键与Visual Studio保持一致，这样能加快开发效率
 

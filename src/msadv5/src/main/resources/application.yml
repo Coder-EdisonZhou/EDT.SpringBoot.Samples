@@ -1,0 +1,21 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    primary:
+      url: jdbc:mysql://10.248.37.3:3307/test_primary
+      username: root
+      password: 123qwe
+      driver-class-name: com.mysql.cj.jdbc.Driver
+    secondary:
+      url: jdbc:mysql://10.248.37.3:3307/test_secondary
+      username: root
+      password: 123qwe
+      driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    properties:
+      hibernate:
+        hbm2ddl:
+          auto: update
+

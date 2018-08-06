@@ -12,11 +12,10 @@
   - Redis & MongdoDB 基础集成
   - ......
 
-## 推荐学习资料：
+## 推荐学习资料
 > 程序猿DD SpringBoot基础教程：http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/<br/>
 > 纯洁的微笑 SpringBoot基础教程：http://www.ityouknow.com/spring-boot.html
 
 ## 推荐开发环境
-```sh
-Intellij Idea Community 2018版本，如果是.Net程序猿，建议更改快捷键与Visual Studio保持一致，这样能加快开发效率
-```
+> Intellij Idea Community 2018版本 => PS:如果是.Net程序猿，建议更改快捷键与Visual Studio保持一致，这样能加快开发效率
+

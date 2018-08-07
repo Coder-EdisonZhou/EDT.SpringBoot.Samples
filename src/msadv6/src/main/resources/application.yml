@@ -1,0 +1,40 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    url: jdbc:mysql://10.248.37.3:3307/test_primary
+    username: root
+    password: 123qwe
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    properties:
+      hibernate:
+        hbm2ddl:
+          # options: create, create-drop, update, validate
+          # create-drop: 每次加载hibernate时根据model类生成表，但是sessionFactory一关闭表就自动删除
+          # update: 最常用的属性，第一次加载hibernate时根据model类会自动建立表结构，以后加载时hibernate根据model类自动更新表结构
+          auto: update
+  redis:
+    database: 0
+    host: 10.248.37.3
+    port: 6379
+    password:
+    pool:
+      max-active: 10
+      max-wait: -1
+      max-idle: 10
+      min-idle: 0
+    timeout: 0
+  data:
+    mongodb:
+      host: 10.248.37.3
+      port: 27017
+      database: spring
+      # need EnableMongoPlus, find more details: http://blog.didispace.com/springbootmongodb-plus/
+      option:
+        min-connection-per-host: 0
+        max-connection-per-host: 100
+        threads-allowed-to-block-for-connection-multipler: 5
+        server-selection-timeout: 30000
+

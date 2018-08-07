@@ -15,6 +15,8 @@
   	Spring Security基本使用 & JdbcTemplate访问数据库 & Spring-data-jpa访问数据库
   - msadv5 :
   	多数据源配置(基于JdbcTemplate 与 基于Spring-data-jpa)
+  - msadv6 :
+    Redis & MongoDB 集成与基本使用
   - ......
 
 ## 推荐学习资料
@@ -22,6 +24,8 @@
 > 纯洁的微笑 SpringBoot基础教程：http://www.ityouknow.com/spring-boot.html
 
 ## 推荐开发环境
+
+[![N|Intellij Idea](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1533644040260&di=f5ef1cf27c43f744cc8fbac384bfd0e9&imgtype=0&src=http%3A%2F%2Fimage.bubuko.com%2Finfo%2F201808%2F20180801214347937731.png)](https://www.jetbrains.com/idea/)
 > Intellij Idea Community 2018版本<br/>
 `PS`: 如果是.Net程序猿想要学习SpringBoot，建议更改快捷键与Visual Studio保持一致，这样能加快开发效率
 

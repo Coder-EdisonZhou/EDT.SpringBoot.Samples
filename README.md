@@ -17,6 +17,8 @@
   	多数据源配置(基于JdbcTemplate 与 基于Spring-data-jpa)
   - msadv6 :
     Redis & MongoDB 集成与基本使用
+  - msadv7 :
+    整合 MyBatis & MyBatis 注解配置的使用
   - ......
 
 ## 推荐学习资料

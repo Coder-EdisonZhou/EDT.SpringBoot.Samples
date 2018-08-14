@@ -19,6 +19,8 @@
     Redis & MongoDB 集成与基本使用
   - msadv7 :
     整合 MyBatis & MyBatis 注解配置的使用
+  - msadv8 :
+    Spring Boot中的事务管理 & 使用Flyway管理数据库版本
   - ......
 
 ## 推荐学习资料

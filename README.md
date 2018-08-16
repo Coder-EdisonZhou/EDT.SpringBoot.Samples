@@ -25,6 +25,8 @@
     Spring Boot中的缓存注解 & 使用Ehcache作为缓存
   - msadv10 :
     集成使用Redis作为缓存
+  - msadv11 :
+    使用log4j记录日志 & 多环境（dev,test,prod）不同日志（INFO,DEBUG,ERROR）级别的控制
   - ......
 
 ## 推荐学习资料

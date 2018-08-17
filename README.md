@@ -31,6 +31,8 @@
     使用log4j实现http请求日志存入MongoDB & 动态修改日志级别（1.5.x新特性）
   - msadv13 :
     RabbitMQ的基本集成和使用
+  - msadv14 :
+    使用@Scheduled创建定时任务 & 使用@Async实现异步调用
   - ......
 
 ## 推荐学习资料

@@ -26,7 +26,7 @@
   - msadv10 :
     集成使用Redis作为缓存
   - msadv11 :
-    使用log4j记录日志 & 多环境（dev,test,prod）不同日志（INFO,DEBUG,ERROR）级别的控制
+    使用log4j记录日志 & 多环境不同日志级别的控制 & 使用AOP统一处理Web请求日志
   - ......
 
 ## 推荐学习资料

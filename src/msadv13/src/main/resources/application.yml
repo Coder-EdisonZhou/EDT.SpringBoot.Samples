@@ -1,0 +1,13 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: rabbitmq-hello
+  rabbitmq:
+    host: 10.248.37.3
+    port: 5672
+    virtual-host: MBPSCD
+    username: admin
+    password: manulife
+

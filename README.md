@@ -33,6 +33,8 @@
     RabbitMQ的基本集成和使用
   - msadv14 :
     使用@Scheduled创建定时任务 & 使用@Async实现异步调用
+  - msadv15 :
+    使用@Async实现异步调用：自定义线程池
   - ......
 
 ## 推荐学习资料

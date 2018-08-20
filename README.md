@@ -35,6 +35,8 @@
     使用@Scheduled创建定时任务 & 使用@Async实现异步调用
   - msadv15 :
     使用@Async实现异步调用：自定义线程池
+  - msadv16 :
+    使用@Async实现异步调用：ThreadPoolTaskScheduler线程池的优雅关闭
   - ......
 
 ## 推荐学习资料

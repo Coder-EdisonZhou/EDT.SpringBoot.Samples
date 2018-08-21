@@ -37,6 +37,8 @@
     使用@Async实现异步调用：自定义线程池
   - msadv16 :
     使用@Async实现异步调用：ThreadPoolTaskScheduler线程池的优雅关闭
+  - msadv17 :
+    使用@Async实现异步调用：使用Future & 定义超时
   - ......
 
 ## 推荐学习资料

@@ -5,7 +5,7 @@ spring:
     host: smtp.qq.com
     port: 587
     username: edisonchou7@qq.com
-    password: fzwmuzrpseyqbjce
+    password: your authorization code
     properties:
       mail:
         smtp:

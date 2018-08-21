@@ -1,0 +1,21 @@
+spring:
+  banner:
+    charset: UTF-8
+  mail:
+    host: smtp.qq.com
+    port: 587
+    username: edisonchou7@qq.com
+    password: fzwmuzrpseyqbjce
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+
+mail:
+  from:
+    account: edisonchou7@qq.com
+  to:
+    account: edisonchou@hotmail.com

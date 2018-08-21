@@ -39,6 +39,8 @@
     使用@Async实现异步调用：ThreadPoolTaskScheduler线程池的优雅关闭
   - msadv17 :
     使用@Async实现异步调用：使用Future & 定义超时
+  - msadv18 :
+    实现邮件发送：简单邮件、带附件的邮件、带资源的文件以及基于模板的邮件
   - ......
 
 ## 推荐学习资料

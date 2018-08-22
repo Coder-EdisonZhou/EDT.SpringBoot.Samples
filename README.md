@@ -41,6 +41,8 @@
     使用@Async实现异步调用：使用Future & 定义超时
   - msadv18 :
     实现邮件发送：简单邮件、带附件的邮件、带资源的文件以及基于模板的邮件 & 使用spring boot actuator监控端点
+  - msadv19 :
+    自定义启动Banner & 使用Spring StateMachine框架实现状态机 & 使用exclude排除不必要的自动化配置的加载
   - ......
 
 ## 推荐学习资料

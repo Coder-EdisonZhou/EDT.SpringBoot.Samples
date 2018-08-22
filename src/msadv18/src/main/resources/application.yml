@@ -5,7 +5,7 @@ spring:
     host: smtp.qq.com
     port: 587
     username: edisonchou7@qq.com
-    password: your authorization code
+    password: fzwmuzrpseyqbjce
     properties:
       mail:
         smtp:
@@ -19,3 +19,12 @@ mail:
     account: edisonchou7@qq.com
   to:
     account: edisonchou@hotmail.com
+
+info:
+  app:
+    name: edisonchou-spring-boot-demo
+    version: v1.0.0
+
+endpoints:
+  shutdown:
+    enabled: true

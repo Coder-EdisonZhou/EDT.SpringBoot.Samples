@@ -1,4 +1,4 @@
-# EDC.SpringBoot.Learning （持续更新中）
+# EDC.SpringBoot.Learning
 
 ## SpringBoot
 [![N|SpringBoot](https://upload-images.jianshu.io/upload_images/7896890-9323041dd0ce883e.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)](https://start.spring.io/)
@@ -43,7 +43,6 @@
     实现邮件发送：简单邮件、带附件的邮件、带资源的文件以及基于模板的邮件 & 使用spring boot actuator监控端点
   - msadv19 :
     自定义启动Banner & 使用Spring StateMachine框架实现状态机 & 使用exclude排除不必要的自动化配置的加载
-  - ......
 
 ## 推荐学习资料
 > 程序猿DD SpringBoot基础教程：http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/<br/>

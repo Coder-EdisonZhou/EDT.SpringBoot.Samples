@@ -45,8 +45,9 @@
     自定义启动Banner & 使用Spring StateMachine框架实现状态机 & 使用exclude排除不必要的自动化配置的加载
 
 ## 推荐学习资料
-> 程序猿DD SpringBoot基础教程：http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/<br/>
-> 纯洁的微笑 SpringBoot基础教程：http://www.ityouknow.com/spring-boot.html
+> 程序猿DD [SpringBoot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)<br/>
+> 纯洁的微笑 [SpringBoot基础教程](http://www.ityouknow.com/spring-boot.html)<br/>
+> EdisonChou [Spring Boot on Docker](https://www.cnblogs.com/edisonchou/p/springboot_on_docker_foundation.html)
 
 ## 推荐开发环境
 
